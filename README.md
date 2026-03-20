@@ -20,7 +20,7 @@ A benchmarking study of three LLM kernels (GEMM, Element-wise Add, Softmax) on G
 ├── roofline_model.ipynb                # Roofline construction
 ├── kernel_mapping.ipynb                # Kernel OI & performance mapping
 ├── roofline_benchmarking.ipynb         # Kernel benchmarking & analysis
-├── ECE_226_Final_Report.pdf            # Final report
+├── group23_paper.pdf                   # Final report
 ├── group23_benchmarking_presentation.pptx
 └── Results/                            # All output plots and CSVs
 ```
